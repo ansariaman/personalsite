@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="214" viewBox="0 0 212 214">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000429;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 16px;
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        fill: #a19dca;
+      }
+    </style>
+  </defs>
+  <g id="logo4" transform="translate(-876 -590)">
+    <path id="Path_5" data-name="Path 5" class="cls-1" d="M106,0c58.542,0,106,47.906,106,107S164.542,214,106,214,0,166.094,0,107,47.458,0,106,0Z" transform="translate(876 590)"/>
+    <g id="Group_13" data-name="Group 13" transform="translate(-76.5)">
+      <text id="More" class="cls-2" transform="translate(1037.5 738)"><tspan x="0" y="0">More</tspan></text>
+      <g id="more-2" data-name="more" transform="translate(1023 652.22)">
+        <g id="Group_7" data-name="Group 7">
+          <g id="Group_6" data-name="Group 6">
+            <path id="Path_6" data-name="Path 6" class="cls-3" d="M8.927,26.78a8.927,8.927,0,1,0,8.927,8.927A8.938,8.938,0,0,0,8.927,26.78Zm0,14.878a5.951,5.951,0,1,1,5.951-5.951A5.957,5.957,0,0,1,8.927,41.658Z"/>
+          </g>
+        </g>
+        <g id="Group_9" data-name="Group 9">
+          <g id="Group_8" data-name="Group 8">
+            <path id="Path_7" data-name="Path 7" class="cls-3" d="M35.707,26.78a8.927,8.927,0,1,0,8.927,8.927A8.938,8.938,0,0,0,35.707,26.78Zm0,14.878a5.951,5.951,0,1,1,5.951-5.951A5.957,5.957,0,0,1,35.707,41.658Z"/>
+          </g>
+        </g>
+        <g id="Group_11" data-name="Group 11">
+          <g id="Group_10" data-name="Group 10">
+            <path id="Path_8" data-name="Path 8" class="cls-3" d="M62.487,26.78a8.927,8.927,0,1,0,8.927,8.927A8.938,8.938,0,0,0,62.487,26.78Zm0,14.878a5.951,5.951,0,1,1,5.951-5.951A5.957,5.957,0,0,1,62.487,41.658Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
